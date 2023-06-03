@@ -8,13 +8,27 @@
             width: 100%;
         }
 
-        th, td {
+        h2{
+            color: #153B49;
+            font-size: 20px;
+            font-family: 'Titillium Web', sans-serif;
+        }
+
+        th{
             border: 1px solid black;
             padding: 8px;
+            color: yellow;
+            font-family: 'Titillium Web', sans-serif;
+        }
+        td {
+            border: 1px solid black;
+            padding: 8px;
+            color: black;
+            font-family: 'Titillium Web', sans-serif;
         }
 
         th {
-            background-color: #f2f2f2;
+            background-color: #153B49;
         }
     </style>
 </head>
