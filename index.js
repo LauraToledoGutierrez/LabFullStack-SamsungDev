@@ -1,4 +1,4 @@
-/* LabFrontEnd-SamsungDes -> Laura Toledo Gutiérrez. */
+/* Laboratorio Desarrollo Full-Stack Samsung Desarrolladoras 2022/23. Laura Toledo Gutiérrez */
 
 //const inputs = document.querySelectorAll('.form-group #formulario input');
 const formulario = document.querySelector('form');

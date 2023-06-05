@@ -1,3 +1,5 @@
+<!-- Laboratorio Desarrollo Full-Stack Samsung Desarrolladoras 2022/23. Laura Toledo Gutiérrez -->
+
 <?php
     // Comprueba si se ha enviado algún dato
     if ($_SERVER['REQUEST_METHOD'] === 'POST') {
