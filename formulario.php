@@ -61,6 +61,7 @@
                         // Comprueba si la consulta se ejecuta correctamente
                         if ($conn->query($sql) === TRUE) {
                             echo "Registro completado con éxito.";
+                            echo "<br>";
                             echo "<button onclick=\"location.href='consulta.php'\">Consulta</button>";
                         } else {
                             echo "Error al registrar los datos: " . $conn->error;
